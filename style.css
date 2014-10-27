@@ -1,0 +1,75 @@
+div .column {
+	margin-top: 20px;
+}
+
+div .input-group {
+	/*margin: 20px auto;*/
+	margin-top: 20px;
+	width: 100% !important;
+
+}
+
+input {
+	font-size: 24px !important;
+	height: 50px !important;
+	background-color: #1F1F1F !important;
+	border-color: black !important;
+	
+
+}
+
+
+
+select {
+	font-size: 24px !important;
+	height: 50px !important;
+	background-color: #1F1F1F !important;
+	border-color: black !important;
+}
+
+div .IS {
+	
+}
+
+div .BS {
+	
+}
+
+div .CF {
+	
+}
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	background-color: #262626;
+	color: #CCCCCC;
+	margin-bottom: 25px;
+}
+
+.input-group-addon {
+	/*opacity: 0.5; */
+	background-color: #1F1F1F;
+	border-color: black;
+	width: 70px !important;
+	font-size: 20px !important;
+
+
+
+}
+
+h1 {
+	color: #CCCCCC;
+}
+
+input.form-control {
+	color: #CCCCCC !important;
+
+}
+
+button {
+	background-color: #1F1F1F !important;
+	font-size: 30px !important;
+	height: 100px;
+	border-radius: 4px !important;
+
+}
